@@ -3,10 +3,7 @@ package by.home.module04.logic;
 import by.home.module04.entity.Student;
 
 public class StudentLogic {
-	public StudentLogic() {
-
-	}
-
+	
 	public boolean isStudentExellent(Student student) {
 
 		
