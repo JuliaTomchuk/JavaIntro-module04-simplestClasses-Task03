@@ -11,7 +11,7 @@ public class View {
 
 		for (Student student : students) {
 			System.out
-					.println(" Имя студента: " + student.getFullName() + " номер группы : " + student.getGroupNumber());
+					.println(" Р¤РРћ СЃС‚СѓРґРµРЅС‚Р°: " + student.getFullName() + " РќРѕРјРµСЂ РіСЂСѓРїРїС‹ : " + student.getGroupNumber());
 
 		}
 
