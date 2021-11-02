@@ -4,10 +4,7 @@ import by.home.module04.entity.Group;
 import by.home.module04.entity.Student;
 
 public class GroupLogic {
-	public GroupLogic() {
-
-	}
-
+	
 	private StudentLogic logic = new StudentLogic();
 
 	public Student[] createArrayofExellentStudents(Group group) {
